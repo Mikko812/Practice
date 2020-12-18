@@ -72,9 +72,18 @@ def test_garantii(page=None):
     assert 'guarantee_service' in curr_page, 'Ошибка перехода на страницу Гарантии!'
     page.go_back()
 
+def test_shopcart(page=None):
+    if not page:   #тест запускается отдельно, не через test_header
+        page = PageHeader(driver)
+    page.basket.click()   # переход в Корзину покупок
+    curr_page = page.get_current_url()
+    assert 'shopcart' in curr_page, 'Ошибка перехода на страницу Корзина!'
+    page.go_back()
+
 def test_header():   # общий тест всех тестов шапки сайта
     page = PageHeader(driver)
-    #page.authorization(driver)
+    page.authorization(driver)
+    test_shopcart(page)
     test_about(page)
     test_dostavka(page)
     test_garantii(page)
