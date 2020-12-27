@@ -1,6 +1,0 @@
-pytest
-selenium
-termcolor
-random
-inspect
-time
