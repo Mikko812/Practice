@@ -1,0 +1,329 @@
+1607631097272	geckodriver	INFO	Listening on 127.0.0.1:17362
+1607631100219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilefIGaSF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607631115447	Marionette	INFO	Listening on port 17370
+1607631115707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1607631159268	Marionette	INFO	Stopped listening on port 17370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607631406627	geckodriver	INFO	Listening on 127.0.0.1:17533
+1607631409696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilevPzKTv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607631421041	Marionette	INFO	Listening on port 17541
+1607631421247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+1607631448197	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 9112, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1607631523184	Marionette	INFO	Stopped listening on port 17541
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4780: TypeError: win is null
+1607631498485	Marionette	INFO	Listening on port 17738
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1607631500595	Marionette	INFO	Stopped listening on port 17738
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607631511850	geckodriver	INFO	Listening on 127.0.0.1:17800
+1607631514889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile5awdUf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607631525771	Marionette	INFO	Listening on port 17808
+1607631526114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+1607631544990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+[Child 10396, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1607631560960	Marionette	INFO	Stopped listening on port 17808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607631601396	geckodriver	INFO	Listening on 127.0.0.1:17960
+1607631604436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilec5iEoo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607631614116	Marionette	INFO	Listening on port 17968
+1607631614561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+1607631711235	Marionette	INFO	Stopped listening on port 17968
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607631785704	geckodriver	INFO	Listening on 127.0.0.1:18189
+1607631788740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile1jtz15"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607631801534	Marionette	INFO	Listening on port 18198
+1607631801601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607631933331	Marionette	INFO	Stopped listening on port 18198
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607633328730	geckodriver	INFO	Listening on 127.0.0.1:19118
+1607633331782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileYjlwbX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607633341165	Marionette	INFO	Listening on port 19126
+1607633341259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+1607633741787	Marionette	INFO	Stopped listening on port 19126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileSP6sfv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607633438217	Marionette	INFO	Listening on port 19307
+1607633438353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ams-static/3.0.0/global/base.js, line 9: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/material/newuser/user-dialog.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/tmall/tmall-top-banner/tmall-top-banner.js?v=20181220, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/webpush/webpush.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/2.0.0/material-public/countdown/countdown.js, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+1607633477245	Marionette	ERROR	[38] No reply from Marionette:Register
+1607633738412	Marionette	INFO	Stopped listening on port 19307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607633979688	geckodriver	INFO	Listening on 127.0.0.1:19479
+1607633982741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileACTirh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607633994123	Marionette	INFO	Listening on port 19487
+1607633994243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607634069953	Marionette	INFO	Stopped listening on port 19487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607635003670	geckodriver	INFO	Listening on 127.0.0.1:46912
+1607635006682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileb2LlhG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+1607635017787	Marionette	INFO	Listening on port 46921
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1607635018314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine yandex@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine priceru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine mailru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ozonru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1607635023182	Marionette	INFO	Stopped listening on port 46921
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1607714175447	geckodriver	INFO	Listening on 127.0.0.1:6915
+1607714178494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile3o1KA5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714189875	Marionette	INFO	Listening on port 6923
+1607714189943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607714422062	Marionette	INFO	Stopped listening on port 6923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
